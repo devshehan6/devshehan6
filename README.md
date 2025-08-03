@@ -23,12 +23,12 @@
   HTML | CSS | JavaScript | Python | C# | Git | SQL | React | Node.js
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehan774690541&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshehan6&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <h1 align="center">🏆 GitHub Trophies:</h1>
     <p align="center"> 
-        <img src="https://github-profile-trophy.vercel.app/?username=shehan774690541&theme=algolia" alt="techdeiyo" />
+        <img src="https://github-profile-trophy.vercel.app/?username=devshehan6&theme=algolia" alt="techdeiyo" />
     </p>
 
 <h2 align="center">Projects</h2>
@@ -62,19 +62,19 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehan774690541&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=devshehan6&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shehan774690541&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devshehan6&theme=dark" alt="GitHub Streak">
 </p>
 
-![Shehan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=shehan774690541&custom_title=Shehan%20Rajapaksha%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shehan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devshehan6&custom_title=Shehan%20Rajapaksha%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <h2 align="center">Visitor Count</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/shehan774690541/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/devshehan6/count.svg" alt="Visitor Count">
 </p>
 
 <h2 align="center">Connect With Me</h2>
